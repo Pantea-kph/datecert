@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1678.78 1016.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed2a24;
+      }
+
+      .cls-2 {
+        fill: #ffeddf;
+        font-family: PressStart2P-Regular, 'Press Start 2P';
+        font-size: 236px;
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="0" width="1678.78" height="1016.67"/>
+  <text class="cls-2" transform="translate(-3 365.19)"><tspan x="0" y="0">Yaaaaay</tspan></text>
+  <text class="cls-2" transform="translate(-3 646.05)"><tspan x="0" y="0">Yaaaaay</tspan></text>
+  <text class="cls-2" transform="translate(-3 926.9)"><tspan x="0" y="0">Yaaaaay</tspan></text>
+</svg>
